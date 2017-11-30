@@ -31,7 +31,7 @@ public class ClaseDAM1 {
 		String al27_JesusRuiz = "";
 		String al28_PabloSanchez= "";
 		String al30_MarcosSuarez = "";
-		String al31_DiegoVelez = "";
+		String al31_DiegoVelez = "Diego Velez Pastor ";
 		String al32_MarcosGonzalez= "";
 
 
